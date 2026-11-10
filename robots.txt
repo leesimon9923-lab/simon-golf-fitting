@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://leesimon9923-lab.github.io/simon-golf-fitting/sitemap.xml
